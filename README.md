@@ -1,2 +1,2 @@
 # Display-klocka
-I detta projekt skulle jag konstruera en Display klocka med timmer och sedan programmera den med C språk
+I detta projekt programmerade jag en mikroprocessor för att visa klockan på en display. För att göra den konstruerade jag först en arkitektur för hårdvara och en annan för mjukvaran. I kodningen skapade jag olika moduler med olika ansvar. En funktion hade ansvar att ta emot värdet som kommer från datorn och sedan skicka vidare detta till en annan funktion som hade ansvar att räkna tiden.I denna rapport kommer jag att lyfta fram hur jag har utvecklat mina moduler samt hur det fungerar. Utöver detta kommer arkitekturen för hårdvara och mjukvara visas upp efter hur jag har utvecklat detta projekt.
